@@ -1,2 +1,6 @@
 # Learning-Web-Development
-Repositorio donde subir archivos de prácticas en la tarea de ir aprendiendo Desarrollo Web de manera autodidacta mientras aprendo a usar GitHub.
+Repositorio con pruebas, ejercicios y demás código que haga en mi proceso de aprender desarrollo web mientras practico con GitHub. Los archivos que suba no tienen por qué ser ejercicios resueltos de ningúna página, pueden ser archivos creados por mi mismo con la simple finalidad de practicar.
+
+Actualmente: HTML &amp; CSS.
+
+Curso que se está estudiando ahora mismo: Responsive Web Design de freeCodeCamp - finished "Learn HTML by Building a Cat Photo App".
