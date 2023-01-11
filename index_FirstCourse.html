@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORMULARIO VIDEOJUEGOS</title>
+</head>
+<body>
+
+    <!-- Pequeña descripción sobre qué son los videojuegos -->
+
+    <h1>VIDEOJUEGOS</h1>
+    <p>
+        Como todos sabemos, los <b>videojuegos</b> son, a día de hoy, uno de los principales divertimentos y pasatiempos en la población. <em>Para saber más</em> acerca de qué piensa la gente sobre los videojuego, procedemos a hacer un pequeño <strong>cuestionario</strong>. Para saber más sobre los videojuegos, pulsa <a href="https://es.wikipedia.org/wiki/Videojuego" target="_blank">aquí</a>.<br><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pong_%2828684491143%29.jpg/1024px-Pong_%2828684491143%29.jpg">
+    </p><br>
+
+    <!-- Diferentes géneros de videojuegos -->
+
+    <h2>TIPOS DE VIDEOJUEGOS</h2>
+    <p>
+        Existen diferentes formatos y tipos de vieojuegos, llamados géneros. Cada uno de estos géneros es diferente con los demás, aunque hay algunos que pueden parecerse mucho entre sí. Algunos ejemplos de géneros de videojuegos son:
+        <ul>
+            <li>RPG</li>
+            <li>FPS</li>
+            <li>MMO</li>
+            <li>RTX</li>
+            <li>MOBA</li>
+        </ul>
+    </p>
+
+    <!-- Algunos videojuegos famosos -->
+
+    <h2>VIDEOJUEGOS MÁS CONOCIDOS</h2>
+    <p>
+        Los 5 videojuegos más famosos, en base a sus ventas totales, son:
+        <ol>
+            <li>Minecraft - 238M de copias vendidas</li>
+            <li>GTA V - 170M de copias vendidas</li>
+            <li>Tetris (EA) - 100M de copias vendidas</li>
+            <li>Wii Sports - 82,9M de copias vendidas</li>
+            <li>PUBG: Battlegrounds - 75M de copias vendidas</li>
+        </ol>
+    </p>
+
+    <figure><img src="https://www.minecraft.net/content/dam/games/minecraft/key-art/Games_Subnav_Minecraft-300x465.jpg"><figcaption>Portada del vieojuego Minecraft</figcaption></figure>
+    
+    <!-- Inicio del cuestionario sobre videojuegos -->
+
+    <h2>CUESTIONARIO SOBRE VIDEOJUEGOS</h2>
+    <main>
+    <form>
+        <h3>Pregunta 1: ¿Sueles jugar a videojuegos?</h3>
+        <label><input type="radio" name="juegos_sino" id="si">Si</label>
+        <input type="radio" name="juegos_sino" id="no"> <label for="no">No</label>
+
+        <h3>Pregunta 2: En caso de que la respuesta anterior sea afirmativa: ¿cuantos juegos tienes?</h3>
+        <input type="text" name="cant_juegos" placeholder="Introduce el número">
+
+        <h3>Marca los juegos que conozcas:</h3>
+        <fieldset>
+        <legend>Haz click en los juegos que conozcas</legend>
+        <input type="checkbox" id="minecraft" name="jueg_conoc" value="minecraft" checked> <label for="minecraft">Minecraft</label>
+        <input type="checkbox" id="gta v" name="jueg_conoc" value="gtav"> <label for="gta v">GTA V</label>
+        <input type="checkbox" id="rdr2" name="jueg_conoc" value="rdr2"> <label for="rdr2">Red Dead Redemption 2</label>
+        </fieldset>
+        <br><br><button type="submit">Enviar</button>
+        
+    </form>
+    </main>
+</body>
+</html>
