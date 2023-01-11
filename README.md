@@ -3,4 +3,4 @@ Repositorio con pruebas, ejercicios y demás código que haga en mi proceso de a
 
 Actualmente: HTML &amp; CSS.
 
-Curso que se está estudiando ahora mismo: Responsive Web Design de freeCodeCamp - finished "Learn HTML by Building a Cat Photo App".
+Estudiando ahora mismo: Curso "Responsive Web Design" de freeCodeCamp - finished "Learn HTML by Building a Cat Photo App".
