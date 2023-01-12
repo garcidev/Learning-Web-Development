@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://blog.ida.cl/wp-content/uploads/sites/5/2020/05/ida-uxvideojuegos-blog.png);
+    font-family: sans-serif;
+    padding:20px;
+}
+
+.menu {
+    width: 75%;
+    background-color: #45BF96;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+    max-width: 700px;
+}
+
+.menu h1 {
+    padding-top: 20px;
+    margin-top: 0px;
+}
+
+.menu h1, h2 {
+    text-align: center;
+}
+
+.article {
+    text-align: left;
+    width: 75%;
+    font-style: italic;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+    font-style: italic;
+}
+
+.item p {
+    display: inline-block;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
