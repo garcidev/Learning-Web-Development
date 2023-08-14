@@ -3,4 +3,4 @@ Repositorio con pruebas, ejercicios y demás código que haga en mi proceso de a
 
 Actualmente: HTML &amp; CSS.
 
-Estudiando ahora mismo: Curso "Responsive Web Design" de freeCodeCamp - terminado "Learn Basic CSS by Building a Cafe Menu".
+Estudiando ahora mismo: Curso "Responsive Web Design" de freeCodeCamp - empezando "Certification Project - Survey Form".
